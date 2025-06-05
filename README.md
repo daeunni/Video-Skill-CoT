@@ -1,6 +1,6 @@
 # 🛠️ Video-Skill-CoT: Skill-based Chain-of-Thoughts for Domain-Adaptive Video Reasoning
 
-[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://video-skill-cot.github.io/)  [![arXiv](https://img.shields.io/badge/arXiv-2506.xxxx-b31b1b.svg)](https://arxiv.org/pdf/2506.xxxx.pdf)   
+[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://video-skill-cot.github.io/)  [![arXiv](https://img.shields.io/badge/arXiv-2506.03525-b31b1b.svg)](https://arxiv.org/pdf/2506.03525)   
 
 #### [Daeun Lee*](https://daeunni.github.io/), [Jaehong Yoon*](https://jaehong31.github.io/), [Jaemin Cho](https://j-min.io), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)    
 
@@ -78,7 +78,7 @@ python ./skill_cot_generation/filtering.py --dataset='cine'
 @article{lee2025videoskillcot,
   title={Video-Skill-CoT: Skill-based Chain-of-Thoughts for Domain-Adaptive Video Reasoning},
   author={Lee, Daeun and Yoon, Jaehong and Cho, Jaemin and Bansal, Mohit},
-  journal={arXiv preprint arXiv:2506.xxxx},
+  journal={arXiv preprint arXiv:2506.03525},
   year={2025}
 }
 ```
