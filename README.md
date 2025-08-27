@@ -1,9 +1,9 @@
-# 🛠️ Video-Skill-CoT: Skill-based Chain-of-Thoughts for Domain-Adaptive Video Reasoning
+# 🛠️ Video-Skill-CoT: Skill-based Chain-of-Thoughts for Domain-Adaptive Video Reasoning 
 
 [![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://video-skill-cot.github.io/)  [![arXiv](https://img.shields.io/badge/arXiv-2506.03525-b31b1b.svg)](https://arxiv.org/pdf/2506.03525)   
 
 #### [Daeun Lee*](https://daeunni.github.io/), [Jaehong Yoon*](https://jaehong31.github.io/), [Jaemin Cho](https://j-min.io), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)    
-
+#### EMNLP 2025 Findings
 
 <br>
 <img width="950" src="image/method.png"/>
